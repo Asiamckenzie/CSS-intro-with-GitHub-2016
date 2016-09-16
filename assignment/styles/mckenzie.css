@@ -5,11 +5,8 @@
 
 body,aside {
     background:#B8DFFF; /* change */
-    color: #fff; /* change */
+    color: #000; /* change */
     font-family: Calibri, Arial, sans-serif; /* keep */
-}
-body{
-    color: #000;
 }
 
 header,footer {
